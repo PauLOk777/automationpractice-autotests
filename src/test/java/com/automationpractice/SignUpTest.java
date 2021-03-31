@@ -12,7 +12,7 @@ public class SignUpTest extends WebDriverSettings {
 
     private static final String SPACE = " ";
     private static final String PREFIX_TO_EMAIL = "dqwfqw";
-    private static final String EMAIL = "mypavlo@gmail.com";
+    private static final String EMAIL = "mypavlo1245@gmail.com";
     private static final String PARAGRAPH_MESSAGE_ABOUT_EIGHT_ERRORS = "There are 8 errors";
     private static final String CUSTOMER_FIRSTNAME = "Firstname";
     private static final String CUSTOMER_LASTNAME = "Lastname";
