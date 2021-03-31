@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import static org.junit.Assert.assertEquals;
 
-public class SignIn extends WebDriverSettings {
+public class SignInTest extends WebDriverSettings {
 
     private static final String USER_FULL_NAME = "Paul Lenser";
     private static final String USER_EMAIL = "trocjuk2000@gmail.com";

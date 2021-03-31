@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import static org.junit.Assert.assertEquals;
 
-public class SignUp extends WebDriverSettings {
+public class SignUpTest extends WebDriverSettings {
 
     private static final String SPACE = " ";
     private static final String PREFIX_TO_EMAIL = "dqwfqw";
